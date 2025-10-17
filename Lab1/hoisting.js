@@ -3,5 +3,5 @@ greetings();
 
 // Function declaration
 function greetings() {
-    console.log('Hi there!')
+    console.log('Hi there!');
 }
